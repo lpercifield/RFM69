@@ -8,12 +8,5 @@
     "url": "https://github.com/LowPowerLab/RFM69.git"
   },
   "frameworks": "arduino",
-  "platforms": "atmelavr",
-  "dependencies":
-  [
-    {
-      "name": "SPIFlash",
-      "authors": "Felix Rusu"
-    }
-  ]
+  "platforms": "atmelavr"
 }
