@@ -1,3 +1,4 @@
+# WARNING, THIS IS A FORK OF THE RFM69 REPO AND IS NOT UPDATED TO THE LATEST COMMITS, USE AT YOUR OWN RISK! (THOUGH I USE IT WITHOUT ISSUE)
 # RFM69 Library  [![Build Status](https://travis-ci.org/LowPowerLab/RFM69.svg)](https://travis-ci.org/LowPowerLab/RFM69)
 
 By Felix Rusu, [LowPowerLab.com](http://LowPowerLab.com)
